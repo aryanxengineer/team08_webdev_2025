@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+QLD:wght@100..400&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.my-font {
+    font-family: "Work Sans", sans-serif;
+    font-style: italic;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+.header-bg {
+    background: linear-gradient(to right bottom , rgb(241, 171, 39), rgb(250, 219, 151), rgb(154, 255, 154));
+}
